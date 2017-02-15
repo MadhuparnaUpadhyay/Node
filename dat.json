@@ -1,0 +1,30 @@
+{
+  "games": [
+    {
+      "name": "Star Wars",
+      "genre": "action",
+      "rating": 75
+    },
+    {
+      "name": "The Empire Strikes Back",
+      "genre": "drama",
+      "rating": 55
+    },
+    {
+      "name": "Return of the Jedi",
+      "genre": "action",
+      "rating": 80
+    },
+    {
+      "name": "The Phantom Menace",
+      "genre": "drama",
+      "rating": 60
+    },
+    {
+      "name": "Attack of the Clones",
+      "genre": "drama",
+      "rating": 45
+    }
+    
+  ]
+}
